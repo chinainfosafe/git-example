@@ -4,3 +4,4 @@ gpg sign with password
 smime sign
 test pull request
 smime sign 123
+commit \r\n
